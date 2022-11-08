@@ -1,131 +1,58 @@
-#EXTM3U
-#EXTINF:-1,A&E HD
-http://181.175.41.170:8000/play/a0fb
-#EXTINF:-1,CARTOON NT HD
-http://181.175.41.170:8000/play/a0ih
-#EXTINF:-1,CINECANAL HD
-http://181.175.41.170:8000/play/a0g3
-#EXTINF:-1,CNN Internacional SD
-http://181.175.41.170:8000/play/a0gy
-#EXTINF:-1,Canal 10 HD - SLV
-http://181.175.41.170:8000/play/a0ec
-#EXTINF:-1,Canal 13 - PAN
-http://181.175.41.170:8000/play/a0j5
-#EXTINF:-1,Caracol HD
-http://181.175.41.170:8000/play/a0j7
-#EXTINF:-1,Comedy Central HD
-http://181.175.41.170:8000/play/a0gb
-#EXTINF:-1,Discovery Channel HD
-http://181.175.41.170:8000/play/a0gs
-#EXTINF:-1,Discovery ID HD
-http://181.175.41.170:8000/play/a0gw
-#EXTINF:-1,E! Entertairment HD
-http://181.175.41.170:8000/play/a0f9
-#EXTINF:-1,ESPN 2 HD
-http://181.175.41.170:8000/play/a0gn
-#EXTINF:-1,ESPN 3 HD
-http://181.175.41.170:8000/play/a0gm
-#EXTINF:-1,ESPN HD
-http://181.175.41.170:8000/play/a0gl
-#EXTINF:-1,ESPN HD
-http://181.175.41.170:8000/play/a0j8
-#EXTINF:-1,Ecuavisa SD
-http://181.175.41.170:8000/play/a02a
-#EXTINF:-1,Europa HD
-http://181.175.41.170:8000/play/a0ff
-#EXTINF:-1,FOX SPORTS 2 HD
-http://181.175.41.170:8000/play/a0g6
-#EXTINF:-1,FOX SPORTS 3 HD
-http://181.175.41.170:8000/play/a0go
-#EXTINF:-1,FUTV HD CR
-http://181.175.41.170:8000/play/a0gk
-#EXTINF:-1,FX HD
-http://181.175.41.170:8000/play/a0fe
-#EXTINF:-1,Fox Sports 1 HD
-http://181.175.41.170:8000/play/a0i7
-#EXTINF:-1,GOLPERU HD
-http://181.175.41.170:8000/play/a0i3
-#EXTINF:-1,Golf Channel HD
-http://181.175.41.170:8000/play/a0fk
-#EXTINF:-1,HBO Family HD
-http://181.175.41.170:8000/play/a0e2
-#EXTINF:-1,HBO HD
-http://181.175.41.170:8000/play/a0dz
-#EXTINF:-1,HBO Plus HD
-http://181.175.41.170:8000/play/a0e1
-#EXTINF:-1,HBO XTREME
-http://181.175.41.170:8000/play/a0ii
-#EXTINF:-1,HBO2 HD
-http://181.175.41.170:8000/play/a0e0
-#EXTINF:-1,HOLA! TV HD
-http://181.175.41.170:8000/play/a0ga
-#EXTINF:-1,History HD
-http://181.175.41.170:8000/play/a0ig
-#EXTINF:-1,Home & Health HD
-http://181.175.41.170:8000/play/a0g9
-#EXTINF:-1,MTV 00s HD
-http://181.175.41.170:8000/play/a0gd
-#EXTINF:-1,MTV HD
-http://181.175.41.170:8000/play/a0f3
-#EXTINF:-1,Movistar Deportes HD
-http://181.175.41.170:8000/play/a0i2
-#EXTINF:-1,Nick SIM HD
-http://181.175.41.170:8000/play/a0g5
-#EXTINF:-1,OROMAR Movil
-http://181.175.41.170:8000/play/a02p
-#EXTINF:-1,Oromar SD
-http://181.175.41.170:8000/play/a02o
-#EXTINF:-1,Paramount HD
-http://181.175.41.170:8000/play/a0gq
-#EXTINF:-1,Pasiones HD
-http://181.175.41.170:8000/play/a0gu
-#EXTINF:-1,RTS FHD
-http://181.175.41.170:8000/play/a02f
-#EXTINF:-1,RTS Movil
-http://181.175.41.170:8000/play/a02g
-#EXTINF:-1,Sony Movies HD
-http://181.175.41.170:8000/play/a0fg
-#EXTINF:-1,Studio Universal HD
-http://181.175.41.170:8000/play/a0f6
-#EXTINF:-1,TD+2 HD CR
-http://181.175.41.170:8000/play/a0ee
-#EXTINF:-1,TD+HD CR
-http://181.175.41.170:8000/play/a0ed
-#EXTINF:-1,TELEAMAZONAS FHD
-http://181.175.41.170:8000/play/a02h
-#EXTINF:-1,TELEAMAZONAS Movil
-http://181.175.41.170:8000/play/a02j
-#EXTINF:-1,TELEAMAZONAS SD
-http://181.175.41.170:8000/play/a02i
-#EXTINF:-1,TNT HD
-http://181.175.41.170:8000/play/a0g7
-#EXTINF:-1,TNT Series HD
-http://181.175.41.170:8000/play/a0gr
-#EXTINF:-1,Telemundo HD
-http://181.175.41.170:8000/play/a0fd
-#EXTINF:-1,Tigo Sports HD
-http://181.175.41.170:8000/play/a0g4
-#EXTINF:-1,UNIVERSAL CINEMA HD
-http://181.175.41.170:8000/play/a0gx
-#EXTINF:-1,UNIVERSAL CINEMA SD
-http://181.175.41.170:8000/play/a0dy
-#EXTINF:-1,UNIVERSAL COMEDY HD
-http://181.175.41.170:8000/play/a0gi
-#EXTINF:-1,UNIVERSAL COMEDY SD
-http://181.175.41.170:8000/play/a0fx
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://181.175.41.170:8000/play/a0gh
-#EXTINF:-1,UNIVERSAL CRIME SD
-http://181.175.41.170:8000/play/a0fw
-#EXTINF:-1,UNIVERSAL PREMIERE HD
-http://181.175.41.170:8000/play/a0ge
-#EXTINF:-1,UNIVERSAL PREMIERE O HD
-http://181.175.41.170:8000/play/a0gf
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://181.175.41.170:8000/play/a0gg
-#EXTINF:-1,UNIVERSAL REALITY SD
-http://181.175.41.170:8000/play/a0fv
-#EXTINF:-1,Univision HD
-http://181.175.41.170:8000/play/a0gv
-#EXTINF:-1,WARNER HD
-http://181.175.41.170:8000/play/a0g1
+TELEFE HD
+http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
+EL TRECE HD
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+CANAL 9 HD
+rtmp://sl100tb.cxnlive.com/live/canal9.stream
+TV PUBLICA HD
+rtmp://sl100tb.cxnlive.com/live/tvpublica.stream
+TyC Sports HD
+rtmp://sl100tb.cxnlive.com/live/tyc.stream
+TN HD
+rtsp://stream.tn.com.ar/live/tnhd1
+C5N
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+Canal 26 HD
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720
+ESPN +
+http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
+Magazine TV
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+History
+http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
+Boomerang
+http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8
+Discovery kids
+http://www.ienlace-tv.com:1935/live6/livestream1.sdp/playlist.m3u8
+Q Musica
+mms://streamqm.uigc.net/qmusica
+Deportv HD
+rtmp://sl100tb.cxnlive.com/live/deportv.stream
+America TV
+rtmp://wdc.cxnlive.com/live/americasd.stream
+NATGEO HD
+http://ilg.club/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&bitrate=800
+NATGEO WILD HD
+http://ilg.club/streamlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8&bitrate=800
+FX HD
+http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
+STAR WORLD HD
+http://ilg.club/streamlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9&bitrate=800
+NAT GEO MUSIC HD
+http://ilg.club/streamlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22&bitrate=800
+BABY TV HD
+http://ilg.club/streamlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7&bitrate=800
+SYFY HD
+http://ilg.club/streamlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1&bitrate=800
+COMEDY CENTRAL HD
+http://ilg.club/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f&bitrate=800
+FOX SPORTS
+rtmp://wdc.cxnlive.com/live/foxsd.stream
+ESPN
+rtmp://wdc.cxnlive.com/live/espn.stream
+CRONICA TV
+rtmp://wdc.cxnlive.com/live/cronica.stream
+TELESUR
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
+TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
